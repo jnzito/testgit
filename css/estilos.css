@@ -3,3 +3,7 @@ p {
     font-size: 100%;
     text-align: justify;
 }
+body{
+	width:50%;
+	margin: 0 auto;
+}
